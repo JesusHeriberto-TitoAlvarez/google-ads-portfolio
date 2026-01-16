@@ -22,7 +22,7 @@ Todas las métricas se presentan de forma **agregada y anonimizada**, priorizand
 
 ## 🧩 Case Studies
 
-- **[01. Fundamentos y aprendizaje (Oct 2022 – Mar 2023)](case-studies/01-fundamentos-y-aprendizaje-2022-2023/)**  
+- **[01. Fundamentos y aprendizaje (Oct 2022 – Mar 2023)](https://github.com/JesusHeriberto-TitoAlvarez/google-ads-portfolio/blob/main/01-fundamentos-y-aprendizaje-2022-2023/README.md)**  
   Construcción de la base operativa: estructura por ciudad, validación de mensajes y mejora progresiva de relevancia.
 
 - **[02. Optimización sostenida (Abr 2023 – Jun 2024)](case-studies/02-optimizacion-sostenida-2023-2024/)**  
